@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.16.7
 
 RUN apk --no-cache add curl git
 
